@@ -20,3 +20,7 @@ Once the project moves into development, the press release can be used as a touc
 ## Summary ##
   <!-- > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
   > A social application intended to inspire our users, "chefs", with a feed of recipes. Each recipe is posted by a fellow chef. If a chef taps on a recipe, they will be directed to a map of local vendors who sell the listed ingredients. In addition to searching for local vendors, chefs can also search for recipes by cuisine type, ingredients needed, or another chef.
+
+## Contributions ##
+  > This was a collaborative effort with the team. My primary focus was to develop the feed and search result components.
+  ![](feed.gif) ![](mapSearch.gif)
